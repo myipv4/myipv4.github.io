@@ -1,0 +1,8 @@
+{
+  "name": "What is my IP?",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "short_name": "IP4",
+  "id": "myipv4",
+  "description": "A simple app for checking your IP!"
+}
